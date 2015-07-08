@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "FistLook_ASP.NET5"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-FistLook_ASP.NET5-8dada478-a578-41ca-9a40-3e3b84be07d1;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
