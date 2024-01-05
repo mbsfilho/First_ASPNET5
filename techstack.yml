@@ -1,11 +1,12 @@
 repo_name: mauriliofilho/First_ASPNET5
 report_id: 8f2057973d9eedd580f9618ec6ee3ae5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T16:13:30+00:00'
+timestamp: '2024-01-05T08:32:33+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
-detected_tools_count: 164
+detected_tools_count: 165
 tools:
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -78,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -92,7 +100,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -106,7 +114,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -118,6 +126,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/10846/default_ee620afff27b68922671eadeacc23ed67db2beec.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/array-uniq/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/array-uniq/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -130,6 +139,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/9802/orchestrator.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -143,7 +153,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/minimatch/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/minimatch/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -157,7 +167,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -169,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/305/KFgYaUkK.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -181,6 +192,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -192,6 +204,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5
   detection_source: Repo Metadata
 - name: JSHint
   description: A Static Code Analysis Tool for JavaScript
@@ -201,6 +214,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -215,7 +229,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/ansi-regex/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -227,6 +241,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -238,6 +253,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -251,7 +267,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -264,7 +280,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/852/1781835.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -277,7 +293,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/3509/logo.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/commander/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/commander/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/commander/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -290,6 +306,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone/.travis.yml
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone/.travis.yml
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -302,6 +319,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/FistLook_ASP.NET5.sln
   detection_source: FistLook_ASP.NET5/FistLook_ASP.NET5.sln
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -315,7 +333,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -327,6 +345,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -339,7 +358,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/ordered-read-streams/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/ordered-read-streams/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/ordered-read-streams/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -349,6 +368,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/Project_Readme.html
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/Project_Readme.html
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -361,7 +381,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/globule/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/globule/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -374,6 +394,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/beeper/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/beeper/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -383,6 +404,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -394,6 +416,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2894/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -407,7 +430,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16344/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -428,7 +451,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/unique-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/unique-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/unique-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -442,7 +465,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17858/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/source-map/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/source-map/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/source-map/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -456,7 +479,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/has-ansi/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/has-ansi/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/has-ansi/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -470,7 +493,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17247/default_548b30201f78497e75a25eec5123ef18df71e69d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -484,7 +507,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18325/default_b0d06180669cf53f2469ea77b53b5911d72482d5.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -498,7 +521,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -512,7 +535,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/beeper/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/beeper/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/beeper/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -526,7 +549,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18395/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/brace-expansion/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/brace-expansion/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/brace-expansion/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -541,7 +564,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -568,7 +591,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16545/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -582,7 +605,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18603/default_3694958065f9a898b45cef06d5c531dfb4be172f.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/minimatch/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/minimatch/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/minimatch/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -603,7 +626,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18724/default_d60b6874d2b3ef9c114b898855dc8608d7e7a942.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/get-stdin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/get-stdin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/get-stdin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -618,8 +641,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/camelcase-keys/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/camelcase-keys/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/camelcase-keys/package.json
+  last_updated_by: Maurilio Filho
+  last_updated_on: 2015-07-08 19:41:50.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
 - name: clean-css
@@ -632,7 +669,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16486/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -653,7 +690,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/vinyl/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/vinyl/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/vinyl/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -667,7 +704,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16409/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -681,7 +718,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15920/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -694,6 +731,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -708,7 +746,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16269/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/first-chunk-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/first-chunk-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/first-chunk-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -729,7 +767,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18306/default_adee5b58cc2acb885faff4066ee6d7281131005f.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -743,7 +781,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18700/default_fc5b023c2170b00beeade822bdceeaf129047406.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/minimist/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/minimist/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/minimist/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -757,7 +795,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16480/default_55f3303d620c93eecbee69c43373d484f2be492f.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -772,7 +810,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17811/default_a5001d58dc2685d7e854c9bb8b83b74bce875e37.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -786,7 +824,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17830/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -801,7 +839,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17795/default_a3a8e3ccb38174acb180f0920c5d4e2fea848911.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -815,7 +853,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16736/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -829,7 +867,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16563/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -843,7 +881,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16785/default_cc1793e454d6d035c188f0198b037d58f372e7f2.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -857,7 +895,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16246/default_dc80ff0a17bac19253430a4f0f586714841116db.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -870,6 +908,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17646/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/wordwrap/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/wordwrap/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -883,7 +922,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -904,7 +943,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16457/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -919,7 +958,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16611/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -934,7 +973,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17525/default_3551598c41205d6bdb9267e84e481dd5afeedb46.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -949,7 +988,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17152/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -963,7 +1002,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17101/default_50357c490b205882dcfb608fd3c74b446186c21e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/has-ansi/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/has-ansi/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -977,7 +1016,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/findup-sync/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/findup-sync/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/findup-sync/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -991,7 +1030,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18351/default_2c0aefa4b2eb8c03973aa0a76114ad973a52ac39.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/gaze/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/gaze/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/gaze/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1005,7 +1044,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1019,7 +1058,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15835/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1052,7 +1091,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17430/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1066,7 +1105,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16360/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1080,7 +1119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1094,7 +1133,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1108,7 +1147,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1122,7 +1161,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1136,7 +1175,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1150,7 +1189,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1164,7 +1203,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1178,7 +1217,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1192,7 +1231,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16061/default_2640651a9f2aee697089f452de5088fc920bd543.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1206,7 +1245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1220,7 +1259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/bootstrap-touch-carousel/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1234,7 +1273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1248,7 +1287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/filesize/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1262,7 +1301,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18170/default_9988dbfaa49c66b3557cfcb4d0066fa661722714.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/hammer.js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1276,7 +1315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1290,7 +1329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16629/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1304,7 +1343,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-rename/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-rename/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-rename/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1318,7 +1357,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1332,7 +1371,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1346,7 +1385,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1360,7 +1399,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1374,7 +1413,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18122/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/meow/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/meow/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/meow/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1389,7 +1428,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16376/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1403,7 +1442,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18291/default_ec4642266ca1e2c9cd968061f43c580c4620639b.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1417,7 +1456,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18648/default_316ace623c991d98ee7b6a2ec75e30e84be87047.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/strip-bom/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/strip-bom/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/strip-bom/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1431,7 +1470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17568/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/readable-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1447,7 +1486,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15833/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1461,7 +1500,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17766/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1475,7 +1514,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16176/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/extend/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/extend/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/extend/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1489,7 +1528,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16031/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob2base/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob2base/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob2base/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1503,7 +1542,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17314/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1517,7 +1556,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17134/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1531,7 +1570,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17533/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.keys/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.keys/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.keys/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1545,7 +1584,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17499/default_1d2902e8f9c84259702671591379572493b9009b.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.keys/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.keys/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.keys/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1559,7 +1598,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18331/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.template/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.template/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/lodash.template/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1573,7 +1612,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17112/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1594,7 +1633,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18604/default_3694958065f9a898b45cef06d5c531dfb4be172f.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/lodash.template/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1608,7 +1647,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17036/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1622,7 +1661,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18117/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1636,7 +1675,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16181/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/repeating/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/repeating/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1650,7 +1689,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1664,7 +1703,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1691,7 +1730,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1724,7 +1763,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/glob-watcher/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1738,7 +1777,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16120/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1752,7 +1791,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16607/default_8bb559d64720e298d7108ccd64281e535c1c76a8.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/mkdirp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/mkdirp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/mkdirp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1765,6 +1804,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1778,7 +1818,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16216/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/async/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/async/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1792,7 +1832,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16015/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1806,7 +1846,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16859/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/end-of-stream/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/end-of-stream/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/end-of-stream/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1820,7 +1860,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17439/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1834,7 +1874,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15974/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1848,7 +1888,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16322/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/duplexer2/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1862,7 +1902,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18705/default_22a7c9a71242cf93733f1dbfcc92b079d9acd3fe.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1876,7 +1916,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/liftoff/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1890,7 +1930,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1904,7 +1944,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1930,6 +1970,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17834/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1943,7 +1984,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1957,7 +1998,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1971,7 +2012,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16331/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1985,7 +2026,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18019/default_ab659b5159df20d1c32f07b936d63628134f5b3d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/vinyl-fs/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -1999,7 +2040,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17084/default_23002b02644a8cb313a0f53f43df271731022a9e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/chalk/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2013,7 +2054,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/minimist/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/minimist/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/isarray/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2027,7 +2068,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15856/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone-stats/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone-stats/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone-stats/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2041,7 +2082,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18653/default_80285fb4484100dd24ab5153dc02d11f63ff4466.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/gulp-cssmin/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2055,7 +2096,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18336/default_ee96f9207d5179911f1b284ce301920711f47528.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/temp-write/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/temp-write/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/temp-write/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2069,7 +2110,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15948/default_fdb56d0865cbc86d9157d5e33f9313d760ed0e83.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-concat/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2084,7 +2125,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17735/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2098,7 +2139,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2131,7 +2172,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15882/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/dateformat/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/clone/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2152,7 +2193,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17150/default_21a9522c66101ebad0e63609af74acb35fe29a0a.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/tildify/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/tildify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/tildify/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2166,7 +2207,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/tempfile/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/tempfile/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/tempfile/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2180,7 +2221,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16406/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/gulp-util/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2194,7 +2235,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16630/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp/node_modules/orchestrator/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2208,7 +2249,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18576/default_3a3bdb19c47f508090aa45abc5a396ca16544447.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/gulp-uglify/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2221,6 +2262,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16365/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-cssmin/node_modules/clean-css/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2234,7 +2276,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18046/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/yargs/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2248,7 +2290,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16315/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-concat/node_modules/through2/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2262,7 +2304,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/node_modules/gulp-uglify/node_modules/uglify-js/package.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2275,7 +2317,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2288,7 +2330,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2301,7 +2343,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2314,7 +2356,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2328,7 +2370,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2341,7 +2383,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2354,7 +2396,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
@@ -2367,7 +2409,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/bower/image.png
-  detection_source_url: github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
+  detection_source_url: https://github.com/mauriliofilho/First_ASPNET5/blob/master/FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   detection_source: FistLook_ASP.NET5/src/FistLook_ASP.NET5/wwwroot/lib/jquery/bower.json
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
