@@ -74,7 +74,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/First_ASPNET5](https://github.com/mauriliofilho/First_ASPNET5)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|164<br/>Tools used|11/30/23 <br/>Report generated|
+|165<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -372,9 +372,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (131)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (132)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (123)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (124)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -392,6 +392,7 @@ Full tech stack [here](/techstack.md)
 |[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.0.0|07/08/15|Maurilio Filho |MIT|[CVE-2017-18077](https://github.com/advisories/GHSA-832h-xg76-4gv6) (High)|
 |[buffer-equal](https://www.npmjs.com/buffer-equal)|v0.0.1|07/08/15|Maurilio Filho |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|v1.0.1|07/08/15|Maurilio Filho |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.0.0|07/08/15|Maurilio Filho |MIT|N/A|
 |[clean-css](https://www.npmjs.com/clean-css)|v3.1.9|07/08/15|Maurilio Filho |MIT|[](https://github.com/advisories/GHSA-wxhq-pm8v-cw75) (Low)|
 |[clone](https://www.npmjs.com/clone)|v0.2.0|07/08/15|Maurilio Filho |MIT|N/A|
 |[codeclimate-test-reporter](https://www.npmjs.com/codeclimate-test-reporter)|v0.0.4|07/08/15|Maurilio Filho |MIT|N/A|
