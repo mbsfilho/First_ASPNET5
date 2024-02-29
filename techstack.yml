@@ -2,7 +2,7 @@ repo_name: mauriliofilho/First_ASPNET5
 report_id: 8f2057973d9eedd580f9618ec6ee3ae5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:32:33+00:00'
+timestamp: '2024-02-29T18:57:04+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -409,7 +409,7 @@ tools:
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-07-08 19:41:50.000000000 Z
 - name: hammer.js
-  description: 'Open-source library that can recognize gestures '
+  description: Open-source library that can recognize gestures
   website_url: http://hammerjs.github.io/
   open_source: true
   hosted_saas: false
